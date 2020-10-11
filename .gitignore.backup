@@ -1,0 +1,15 @@
+
+kosmotime
+icudtl.dat
+LICENSE
+LICENSES.chromium.html
+chrome-sandbox
+chrome_100_percent.pak
+chrome_200_percent.pak
+libEGL.so
+libGLESv2.so
+libffmpeg.so
+libvk_swiftshader.so
+libvulkan.so
+locales
+resources.pak
